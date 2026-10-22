@@ -1,0 +1,6041 @@
+{
+  "version": 1,
+  "chapters": [
+    {
+      "id": "1",
+      "title": "Part One: Two Bowls",
+      "startPage": "01"
+    },
+    {
+      "id": "2",
+      "title": "Part Two",
+      "startPage": "10"
+    },
+    {
+      "id": "3",
+      "title": "Part Three",
+      "startPage": "18"
+    },
+    {
+      "id": "4",
+      "title": "Part Four",
+      "startPage": "28"
+    }
+  ],
+  "pages": [
+    {
+      "id": "cover",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "cover",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "Full page cover."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.13701923076923078,
+            0.04020700636942675,
+            0.7211538461538461,
+            0.1331608280254777
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.13701923076923078,
+            0.04020700636942675,
+            0.7211538461538461,
+            0.1331608280254777
+          ],
+          "file": "l1.webp"
+        }
+      ]
+    },
+    {
+      "id": "01",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "01",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2
+          ],
+          "alt": "Full page 01."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.017000000000000015,
+            0.009350649350649338,
+            0.65,
+            0.07792207792207793
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.017000000000000015,
+            0.05557142857142856,
+            0.65,
+            0.051428571428571435
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.175,
+            0.9597662337662337,
+            0.65,
+            0.02805194805194805
+          ],
+          "file": "l2.webp"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "02",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 02."
+        },
+        {
+          "page": "02",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01407285,
+            1,
+            0.35347682
+          ],
+          "reveal": [],
+          "alt": "WS. The same kitchen as page 1, from nearly the same angle, but cold. No cats. Firouze stands at the stove: upright, not awake, eyes almost shut, hair wrecked, shoulders hunched, in her sleep tunic. The kettle is on. Her right arm is already reaching down to the low shelf on autopilot, without looking. The chair by the window still has its white hair."
+        },
+        {
+          "page": "02",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.36754967,
+            0.35,
+            0.2843543
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "CU, the shelf. Her hand closes on **bare wood** in the gap where the bowls live. The turquoise cup, cracked saucer and chipped plate sit beside it."
+        },
+        {
+          "page": "02",
+          "kind": "panel",
+          "rect": [
+            0.35,
+            0.36754967,
+            0.3015625,
+            0.2843543
+          ],
+          "reveal": [],
+          "alt": "MS. She looks down at her own hand as though it has said something rude. Her eyes are opening for the first time, offended."
+        },
+        {
+          "page": "02",
+          "kind": "panel",
+          "rect": [
+            0.6515625,
+            0.36754967,
+            0.3484375,
+            0.2843543
+          ],
+          "reveal": [],
+          "alt": "ECU. Two fingertips in the gap. A grey film of **dust**. Under the dust there is no ring and no worn mark. The wood is untouched, as if no bowl ever sat there."
+        },
+        {
+          "page": "02",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.65190397,
+            0.4990625,
+            0.32491722
+          ],
+          "reveal": [
+            1
+          ],
+          "alt": "MS–WS. The search, compressed into one image. Every cupboard door is open: the cupboard, the cupboard under it, the drying rack with nothing in it. Firouze crouches by the stove, looking at the **flagstone by the stove** (the precise place). It is bare and grey: no crumbs, no water splashes. She is fully awake now."
+        },
+        {
+          "page": "02",
+          "kind": "panel",
+          "rect": [
+            0.4990625,
+            0.65190397,
+            0.5009375,
+            0.32491722
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "MS. From floor level by the stove, looking past her crouched shape to the **empty kitchen doorway** and the dark beyond. Nothing comes. The room is still."
+        },
+        {
+          "page": "02",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2
+          ],
+          "alt": "Full page 02."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.2533700980392157,
+            0.463474025974026,
+            0.022365196078431373,
+            0.01359577922077922
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.30943627450980393,
+            0.677150974025974,
+            0.3492647058823529,
+            0.0505275974025974
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.30943627450980393,
+            0.677150974025974,
+            0.3492647058823529,
+            0.0505275974025974
+          ],
+          "file": "l2.webp"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "03",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 03."
+        },
+        {
+          "page": "03",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01531457,
+            1,
+            0.3865894
+          ],
+          "reveal": [],
+          "alt": "MS. At the chair by the window, Firouze holds **one long white hair** up to the window between finger and thumb. It catches the thin light and glows. Her face is very still. The hair-covered cushion fills the foreground."
+        },
+        {
+          "page": "03",
+          "kind": "panel",
+          "rect": [
+            0.712,
+            0.2135,
+            0.288,
+            0.1885
+          ],
+          "reveal": [],
+          "alt": "LEGS — GOING. Her bare shins and feet under the table, with short fast motion arcs."
+        },
+        {
+          "page": "03",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.40190397,
+            1,
+            0.26738411
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "MS. The table with **two mugs**. Hers is empty. The other has been poured and gone cold, with a skin on top. Firouze sits behind them, hair still in her fingers, looking towards the **dark bedroom doorway** at the right edge."
+        },
+        {
+          "page": "03",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.66928808,
+            0.5290625,
+            0.3125
+          ],
+          "reveal": [
+            1,
+            2,
+            3
+          ],
+          "alt": "CU. Firouze turned towards the doorway, voice rough, grumpy, awake."
+        },
+        {
+          "page": "03",
+          "kind": "panel",
+          "rect": [
+            0.5290625,
+            0.66928808,
+            0.4709375,
+            0.3125
+          ],
+          "reveal": [
+            4
+          ],
+          "alt": "MS, Firouze's POV through the bedroom doorway. The dark room, the bed, a **shape under the blanket** (no face), one arm flung out into the cold half. He is trying to wake up for her."
+        },
+        {
+          "page": "03",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "Full page 03."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.616421568627451,
+            0.4318181818181818,
+            0.21966911764705882,
+            0.060064935064935064
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.05821078431372549,
+            0.679788961038961,
+            0.7227328431372549,
+            0.0872564935064935
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.05821078431372549,
+            0.679788961038961,
+            0.7227328431372549,
+            0.0872564935064935
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.30637254901960786,
+            0.7982954545454546,
+            0.18535539215686275,
+            0.0643262987012987
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.4010416666666667,
+            0.679788961038961,
+            0.3799019607843137,
+            0.0872564935064935
+          ],
+          "file": "l4.webp"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "04",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 04."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0,
+            0,
+            0.490625,
+            0.29200487
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "CU, Firouze's face, eyes closed. She is not crying. She is patiently testing a broken thing a second time."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0.490625,
+            0,
+            0.509375,
+            0.29200487
+          ],
+          "reveal": [],
+          "alt": "MS, the bedroom doorway again, the same framing as page 3 panel 5. The shape has turned over towards the wall. A long pause: a silent panel."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.29200487,
+            0.4854,
+            0.21004513
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "MS. Firouze in the kitchen in the foreground, the doorway in the background. Her face has gone from hurt to *thinking*: she is gathering information."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0.4854,
+            0.29200487,
+            0.1967,
+            0.21004513
+          ],
+          "reveal": [],
+          "alt": "LEGS — STOP. Feet flat on the flagstone, no arcs."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.50205,
+            0.3248,
+            0.2652
+          ],
+          "reveal": [],
+          "alt": "The coat comes off its hook in one motion and one arm goes in."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0.3248,
+            0.50205,
+            0.2788,
+            0.2652
+          ],
+          "reveal": [],
+          "alt": "ECU, her left wrist as the sleeve goes on. The **turquoise thread** with its greyed frayed ends shows against her skin, and her right hand slips the **white hair** into the coat pocket."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.76725,
+            0.6036,
+            0.23275
+          ],
+          "reveal": [],
+          "alt": "Boots, pulled on fast, laces left loose."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0.6036,
+            0.50205,
+            0.0785,
+            0.49795
+          ],
+          "reveal": [],
+          "alt": "The street door, open, with the wet light coming through."
+        },
+        {
+          "page": "04",
+          "kind": "panel",
+          "rect": [
+            0.6821,
+            0.29200487,
+            0.3179,
+            0.70799513
+          ],
+          "reveal": [
+            3
+          ],
+          "alt": "WS from inside the kitchen. The **street door is open** and Firouze is stepping out into wet blue air, the stepped street visible beyond. Behind her: cupboards left open, the full cold mug on the table. Her coat is mid-swing. The air puts its wet hand on her face (rain in the doorway light)."
+        },
+        {
+          "page": "04",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "alt": "Full page 04."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.06740196078431372,
+            0.040787337662337664,
+            0.1253063725490196,
+            0.056006493506493504
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.34191176470588236,
+            0.23396915584415584,
+            0.12622549019607843,
+            0.03530844155844156
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.30269607843137253,
+            0.23396915584415584,
+            0.5572916666666666,
+            0.2830762987012987
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.30269607843137253,
+            0.33421266233766234,
+            0.5572916666666666,
+            0.1828327922077922
+          ],
+          "file": "l3.webp"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "05",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 05."
+        },
+        {
+          "page": "05",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00827815,
+            1,
+            0.4942053
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "From near the top of the hill, looking down a steep street of **wet stone steps** to the harbour fish-yards. Each step holds a puddle full of cheap amber lantern light. Gulls wheel and squabble on rooftops. A cart is being shouted at by a man halfway down. Masts and grey water at the bottom. Smoke from chimneys. **Firouze** is small at the top, coat dark, hurrying down."
+        },
+        {
+          "page": "05",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.50248344,
+            1,
+            0.24130795
+          ],
+          "reveal": [
+            1,
+            2
+          ],
+          "alt": "MS. The **fishmonger**, big forearms, oilskin apron, flicks a fish skin into a **bait bucket**. His eyes never go to the board. Firouze stands at the stall, wet and intent."
+        },
+        {
+          "page": "05",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.74379139,
+            0.5005,
+            0.24834437
+          ],
+          "reveal": [
+            3,
+            4
+          ],
+          "alt": "CU, the fishmonger's face: **the polite blank**. He looks like a man being shown a bill from a shop he has never been in. Not suspicious. Firouze's shoulder is in the foreground."
+        },
+        {
+          "page": "05",
+          "kind": "panel",
+          "rect": [
+            0.5005,
+            0.74379139,
+            0.49950000000000006,
+            0.24834437
+          ],
+          "reveal": [
+            5,
+            6
+          ],
+          "alt": "MS. Firouze watches him closely as she tests. A gull sits on the stall's awning behind them. The fishmonger **snorts**, amused, and gestures at the gull with his knife. He caught *that* word."
+        },
+        {
+          "page": "05",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "alt": "Full page 05."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.44362745098039214,
+            0.037134740259740256,
+            0.15287990196078433,
+            0.03551136363636364
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.5998774509803921,
+            0.5099431818181818,
+            0.17310049019607843,
+            0.12824675324675325
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.5998774509803921,
+            0.5099431818181818,
+            0.17310049019607843,
+            0.12824675324675325
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.21231617647058823,
+            0.7528409090909091,
+            0.17555147058823528,
+            0.049107142857142856
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.05330882352941176,
+            0.8139204545454546,
+            0.7475490196078431,
+            0.13230519480519481
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.6207107843137255,
+            0.7747564935064936,
+            0.3431372549019608,
+            0.11525974025974026
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.21231617647058823,
+            0.7528409090909091,
+            0.7515318627450981,
+            0.13717532467532467
+          ],
+          "file": "l6.webp"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "06",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 06."
+        },
+        {
+          "page": "06",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00952381,
+            0.561875,
+            0.3300207
+          ],
+          "reveal": [],
+          "alt": "MS. The chandler's steps (pictogram sign: a candle). A ball comes bouncing down. A **boy** of about seven, patched knees, chases it straight through the **square of sun on the second step**. In the foreground, Firouze stops walking."
+        },
+        {
+          "page": "06",
+          "kind": "panel",
+          "rect": [
+            0.561875,
+            0.00952381,
+            0.438125,
+            0.3300207
+          ],
+          "reveal": [],
+          "alt": "CU, Firouze's POV. The square of sun on the stone step, the size of a curled body. Inside it, a **memory ghost**: a faint, warm, translucent outline of a curled **toast-coloured tabby** asleep in the sun. The boy's running foot is about to pass straight through it."
+        },
+        {
+          "page": "06",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.33954451,
+            0.5,
+            0.32753623
+          ],
+          "reveal": [],
+          "alt": "MS. The boy runs on, laughing, ball in his hands, without slowing. Firouze's hand has half-lifted towards his sleeve and stopped. She doesn't catch him."
+        },
+        {
+          "page": "06",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.33954451,
+            0.5,
+            0.32753623
+          ],
+          "reveal": [],
+          "alt": "MS–WS. A wall niche between the rope-seller's (rope-coil pictogram) and a door that never opens. Inside, **small worn gods** whose faces were rubbed off by hands long ago. Around the base, a **mosaic**: fish, waves, a lantern, and in the corner **a patch sanded flat**, paler than everything else. Firouze leans in."
+        },
+        {
+          "page": "06",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.66708075,
+            0.6596875,
+            0.32339545
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "ECU. Two of her fingers on the sanded corner. **Fresh pale grit** comes away on her skin, pale as flour. In the surrounding tiles you can see where the brown-and-cream shape was cut off at the edges."
+        },
+        {
+          "page": "06",
+          "kind": "panel",
+          "rect": [
+            0.6596875,
+            0.66708075,
+            0.3403125,
+            0.32339545
+          ],
+          "reveal": [],
+          "alt": "LEGS — GOING. Boots on wet cobbles, a short fast stutter."
+        },
+        {
+          "page": "06",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "Full page 06."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.4338942307692308,
+            0.9353105095541401,
+            0.19260817307692307,
+            0.01950636942675159
+          ],
+          "file": "l0.webp"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "07",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 07."
+        },
+        {
+          "page": "07",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.0136646,
+            0.585,
+            0.33084886
+          ],
+          "reveal": [],
+          "alt": "WS. The watch corner. The **sergeant**, middle-aged and bored, sits on a crate with a slate on a string round his neck and chalk behind his ear. He is sorting out a debt with a rumpled man who still smells of last night's wine. Firouze waits at the edge of the frame, wet, arms down, legs very still for once."
+        },
+        {
+          "page": "07",
+          "kind": "panel",
+          "rect": [
+            0.585,
+            0.0136646,
+            0.415,
+            0.33084886
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "MS. Firouze is now in front of him. He takes the chalk from behind his ear, which is a good sign."
+        },
+        {
+          "page": "07",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.34451346,
+            0.34375,
+            0.31428571
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "CU, the slate. Under the chalk words `crate` and `debt`, his hand has made a `C`, an `A`, and **stopped**, as if the slate had gone soft."
+        },
+        {
+          "page": "07",
+          "kind": "panel",
+          "rect": [
+            0.34375,
+            0.34451346,
+            0.314375,
+            0.31428571
+          ],
+          "reveal": [
+            3
+          ],
+          "alt": "CU. The sergeant looks down at the two letters with mild interest, like a smudge he doesn't remember making, and **rubs them out with the side of his thumb**. A chalk smear is left."
+        },
+        {
+          "page": "07",
+          "kind": "panel",
+          "rect": [
+            0.658125,
+            0.34451346,
+            0.341875,
+            0.31428571
+          ],
+          "reveal": [
+            4
+          ],
+          "alt": "MS. Firouze, precise, testing again."
+        },
+        {
+          "page": "07",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.65879917,
+            0.618125,
+            0.32712215
+          ],
+          "reveal": [
+            5,
+            6,
+            7
+          ],
+          "alt": "MS. He writes, and it holds. Firouze points back down the hill towards the stall and the niche. He follows her finger with a polite, unconvinced glance."
+        },
+        {
+          "page": "07",
+          "kind": "panel",
+          "rect": [
+            0.618125,
+            0.65879917,
+            0.381875,
+            0.32712215
+          ],
+          "reveal": [],
+          "alt": "ECU, the slate alone: `crate` / `debt` / chalk smear / `animals`. *Animals* sits there with nothing attached to it. In the bottom corner, Firouze's hand wipes the white grit off on her coat as she turns away uphill."
+        },
+        {
+          "page": "07",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "alt": "Full page 07."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.5811298076923077,
+            0.03503184713375796,
+            0.3137019230769231,
+            0.0650875796178344
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.8542668269230769,
+            0.16003184713375795,
+            0.09134615384615384,
+            0.05195063694267516
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.04296875,
+            0.3668391719745223,
+            0.10426682692307693,
+            0.027269108280254778
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.5516826923076923,
+            0.3489251592356688,
+            0.24128605769230768,
+            0.10509554140127389
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.5516826923076923,
+            0.3489251592356688,
+            0.24128605769230768,
+            0.10509554140127389
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.05318509615384615,
+            0.6761544585987261,
+            0.5399639423076923,
+            0.16779458598726116
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.05318509615384615,
+            0.6761544585987261,
+            0.5399639423076923,
+            0.16779458598726116
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.05318509615384615,
+            0.6761544585987261,
+            0.5399639423076923,
+            0.16779458598726116
+          ],
+          "file": "l7.webp"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "08",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 08."
+        },
+        {
+          "page": "08",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01821192,
+            0.5,
+            0.28021523
+          ],
+          "reveal": [],
+          "alt": "WS. The landing of her building: a stair rail and a window of **scraped horn**, glowing yellow. Firouze stands at it. Below and beyond, blurred through the horn, her own street door is still **open** onto the dark kitchen.",
+          "fx": "memory"
+        },
+        {
+          "page": "08",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.01821192,
+            0.5,
+            0.28021523
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "CU. Her face in the yellow horn light. She is tired, and almost relieved at the easy thought.",
+          "fx": "memory"
+        },
+        {
+          "page": "08",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.29842715,
+            1,
+            0.67963576
+          ],
+          "reveal": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "CU–MS. Firouze leaning in, eyes half-closed, testing herself. The memories float around her like a cluster.",
+          "fx": "memory"
+        },
+        {
+          "page": "08",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "Full page 08."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.5186887254901961,
+            0.04667207792207792,
+            0.19301470588235295,
+            0.04301948051948052
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.7064950980392157,
+            0.3005275974025974,
+            0.1875,
+            0.03125
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.06219362745098039,
+            0.3344155844155844,
+            0.17585784313725492,
+            0.03125
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.06219362745098039,
+            0.3344155844155844,
+            0.19056372549019607,
+            0.11221590909090909
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.5919117647058824,
+            0.7686688311688312,
+            0.21629901960784315,
+            0.04301948051948052
+          ],
+          "file": "l4.webp"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "09",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 09."
+        },
+        {
+          "page": "09",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01655629,
+            0.496875,
+            0.32533113
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "CU, profile. Her forehead against the horn pane, eyes shut. Her breath fogs a small patch on the horn."
+        },
+        {
+          "page": "09",
+          "kind": "panel",
+          "rect": [
+            0.496875,
+            0.01655629,
+            0.503125,
+            0.32533113
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "MS. Outside, on the roof opposite (seen as a soft shape through the horn, or through a gap at the frame edge), a **gull** answers, beak open."
+        },
+        {
+          "page": "09",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.34188742,
+            0.3721875,
+            0.30918874
+          ],
+          "reveal": [
+            3,
+            4
+          ],
+          "alt": "CU, her mouth and jaw as she straightens. The easy word sits in her mouth with a clean, chalky taste."
+        },
+        {
+          "page": "09",
+          "kind": "panel",
+          "rect": [
+            0.3721875,
+            0.34188742,
+            0.26625,
+            0.30918874
+          ],
+          "reveal": [],
+          "alt": "LEGS — STOP."
+        },
+        {
+          "page": "09",
+          "kind": "panel",
+          "rect": [
+            0.6384375,
+            0.34188742,
+            0.3615625,
+            0.30918874
+          ],
+          "reveal": [],
+          "alt": "MS. Her hand on the stair rail, her body already turned towards the stairs down. She is very nearly going."
+        },
+        {
+          "page": "09",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.65107616,
+            1,
+            0.33153974
+          ],
+          "reveal": [],
+          "alt": "POV through the scraped-horn window, looking down into the **washing court**. Everything is yellow, soft and blurred: pale rectangles of sheets, a grey shirt, a child's smock. **Halfway along one line, the line dips: deep, heavy, particular.** It is not a sag. It is as if the pegs had been asked to hold something that decided to stay. Optional: one tiny tuft of white at the sheet's edge."
+        },
+        {
+          "page": "09",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "Full page 09."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.34528186274509803,
+            0.20941558441558442,
+            0.11764705882352941,
+            0.02536525974025974
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.3275122549019608,
+            0.20941558441558442,
+            0.13541666666666666,
+            0.0992288961038961
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.7613357843137255,
+            0.09801136363636363,
+            0.13725490196078433,
+            0.033685064935064936
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.06801470588235294,
+            0.35836038961038963,
+            0.08425245098039216,
+            0.01948051948051948
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.18443627450980393,
+            0.5994318181818182,
+            0.14154411764705882,
+            0.03125
+          ],
+          "file": "l4.webp"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "10",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 10."
+        },
+        {
+          "page": "10",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01986755,
+            1,
+            0.77317881
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "MS–WS, slightly low, looking up at the washing line. Firouze is in the lower left foreground, seen from behind and to the side, frozen mid-step on the wet court stones. Her coat is open and her hair damp."
+        },
+        {
+          "page": "10",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.79304636,
+            0.5,
+            0.18667219
+          ],
+          "reveal": [],
+          "alt": "ECU. Her hand stopped **an inch** from his face, not touching. Turquoise thread on the wrist. His whiskers are almost at her fingertips. (This is the second beat of the hand rhyme.)"
+        },
+        {
+          "page": "10",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.79304636,
+            0.5,
+            0.18667219
+          ],
+          "reveal": [],
+          "alt": "LEGS — GOING, hard and fast, on wet stone."
+        },
+        {
+          "page": "10",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "Full page 10."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.2653186274509804,
+            0.3938717532467532,
+            0.0389093137254902,
+            0.012378246753246754
+          ],
+          "file": "l0.webp"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "11",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 11."
+        },
+        {
+          "page": "11",
+          "kind": "panel",
+          "rect": [
+            0,
+            0,
+            0.5015318627450981,
+            0.3484172077922078
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "ECU. **He leans the last inch himself.** The whole flat of his face is pressed into her palm and pushing, eyes squeezed half-shut."
+        },
+        {
+          "page": "11",
+          "kind": "panel",
+          "rect": [
+            0.5015318627450981,
+            0,
+            0.49846813725490197,
+            0.3484172077922078
+          ],
+          "reveal": [
+            1
+          ],
+          "alt": "MS. She lifts him down off the line, which is a mistake: he is the size of a winter and does not help. She staggers, her arms full of white cat, the wet sheet coming half down with him."
+        },
+        {
+          "page": "11",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.3484172077922078,
+            0.3681066176470588,
+            0.31554383116883117
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "MS. A **woman with a basket** bustles through the passage, cheerful, glancing at Firouze. She sees only a woman holding an armful of wet sheet."
+        },
+        {
+          "page": "11",
+          "kind": "panel",
+          "rect": [
+            0.3681066176470588,
+            0.3484172077922078,
+            0.2624080882352941,
+            0.31554383116883117
+          ],
+          "reveal": [
+            3
+          ],
+          "alt": "MS. Barfi set down on the wet step, looking up at Firouze with **The Look**: the facts are very simple and she is making them complicated. Firouze bends towards him, about to run."
+        },
+        {
+          "page": "11",
+          "kind": "panel",
+          "rect": [
+            0.6305147058823529,
+            0.3484172077922078,
+            0.3694852941176471,
+            0.31554383116883117
+          ],
+          "reveal": [
+            4,
+            5
+          ],
+          "alt": "MS at the fish stall. Firouze grabs three skins from the bait bucket with her bare hand and slaps **a coin on the bare, dry board**. The fishmonger raises an eyebrow."
+        },
+        {
+          "page": "11",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.663961038961039,
+            0.5015318627450981,
+            0.336038961038961
+          ],
+          "reveal": [],
+          "alt": "MS, back in the court. The three skins lie on the clean step. Barfi looks at them the way a lord looks at dinner served on the wrong plate, then up at her. He does not eat, and he keeps looking."
+        },
+        {
+          "page": "11",
+          "kind": "panel",
+          "rect": [
+            0.5015318627450981,
+            0.663961038961039,
+            0.49846813725490197,
+            0.336038961038961
+          ],
+          "reveal": [],
+          "alt": "MS. Firouze **sits down** on the wet step beside the food (she understands). Only then does Barfi lower his great face and **begin**. Fish oil shines gold on his whiskers."
+        },
+        {
+          "page": "11",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "alt": "Full page 11."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.23713235294117646,
+            0.3171672077922078,
+            0.06587009803921569,
+            0.009537337662337662
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.8795955882352942,
+            0.10633116883116883,
+            0.0508578431372549,
+            0.017045454545454544
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.1056985294117647,
+            0.3171672077922078,
+            0.359375,
+            0.1028814935064935
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.1056985294117647,
+            0.35693993506493504,
+            0.8400735294117647,
+            0.06310876623376624
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.38817401960784315,
+            0.36079545454545453,
+            0.5575980392156863,
+            0.05925324675324675
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.38817401960784315,
+            0.36079545454545453,
+            0.5575980392156863,
+            0.05925324675324675
+          ],
+          "file": "l5.webp"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "12",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 12."
+        },
+        {
+          "page": "12",
+          "kind": "panel",
+          "rect": [
+            0,
+            0,
+            1,
+            0.3638392857142857
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "MS, tight two-shot on the step. Barfi has finished. He has washed one paw with tremendous seriousness, and now his face is back in her palm, which smells of the stall. Her hand is cupped, his flat face pressed into it, his eyes on her. Firouze's coat is soaking through on the step and she hasn't noticed."
+        },
+        {
+          "page": "12",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.3638392857142857,
+            0.5009191176470589,
+            0.3001217532467532
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "CU, Firouze. Shock. She glances at the empty passage, then back at his mouth, which is a cat's mouth and has no business."
+        },
+        {
+          "page": "12",
+          "kind": "panel",
+          "rect": [
+            0.5009191176470589,
+            0.3638392857142857,
+            0.4990808823529412,
+            0.3001217532467532
+          ],
+          "reveal": [
+            3,
+            4
+          ],
+          "alt": "CU, Barfi, faintly insulted to be asked: ears slightly back, eyes heavy-lidded."
+        },
+        {
+          "page": "12",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.663961038961039,
+            0.5009191176470589,
+            0.336038961038961
+          ],
+          "reveal": [],
+          "alt": "MS. Firouze presses the heel of her free hand into her eyes. Her eyes are doing the hot, stupid thing. Barfi watches."
+        },
+        {
+          "page": "12",
+          "kind": "panel",
+          "rect": [
+            0.5009191176470589,
+            0.663961038961039,
+            0.4990808823529412,
+            0.336038961038961
+          ],
+          "reveal": [
+            5,
+            6,
+            7
+          ],
+          "alt": "MS. She lowers her hand, eyes wet, voice scraped but soft, the voice she keeps for him. Barfi looks over at the sheet on the line, covered in his hair like a light snowfall."
+        },
+        {
+          "page": "12",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "alt": "Full page 12."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.7368259803921569,
+            0.2148944805194805,
+            0.19424019607843138,
+            0.040381493506493504
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.7236519607843137,
+            0.2148944805194805,
+            0.21660539215686275,
+            0.11038961038961038
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.3268995098039216,
+            0.5499188311688312,
+            0.36611519607843135,
+            0.07528409090909091
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.3268995098039216,
+            0.5499188311688312,
+            0.6127450980392157,
+            0.09719967532467533
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.3268995098039216,
+            0.5499188311688312,
+            0.6127450980392157,
+            0.09719967532467533
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.3268995098039216,
+            0.5499188311688312,
+            0.6197916666666666,
+            0.2362012987012987
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.3268995098039216,
+            0.5499188311688312,
+            0.6197916666666666,
+            0.2362012987012987
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.7484681372549019,
+            0.8628246753246753,
+            0.19301470588235295,
+            0.0625
+          ],
+          "file": "l7.webp"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "13",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 13."
+        },
+        {
+          "page": "13",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00952381,
+            0.5,
+            0.32753623
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "CU, Barfi. His ears go flat for a moment, as if the air were pulling at him."
+        },
+        {
+          "page": "13",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.00952381,
+            0.5,
+            0.32753623
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "CU, Firouze, close to him, saying it carefully."
+        },
+        {
+          "page": "13",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.33706004,
+            1,
+            0.3184265
+          ],
+          "reveal": [
+            3
+          ],
+          "alt": "MS. Barfi **shivers** once, all over, the way a cat does when a door shuts somewhere in a house. Then he is *more there*: draw him slightly crisper and more solid than the panel before, his fur fuller, with a heavier shadow under him. His weight leans against her shin and assumes it will be allowed."
+        },
+        {
+          "page": "13",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.65548654,
+            0.343125,
+            0.33457557
+          ],
+          "reveal": [],
+          "alt": "MS, low angle at paw level. A **man with a coil of rope** on his shoulder crosses the court. His boot comes down **an inch from Barfi's paw**. He doesn't look down. Barfi doesn't flinch."
+        },
+        {
+          "page": "13",
+          "kind": "panel",
+          "rect": [
+            0.343125,
+            0.65548654,
+            0.315625,
+            0.33457557
+          ],
+          "reveal": [
+            4,
+            5
+          ],
+          "alt": "MS, the two of them on the step. The rope man is gone in the background."
+        },
+        {
+          "page": "13",
+          "kind": "panel",
+          "rect": [
+            0.65875,
+            0.65548654,
+            0.34125,
+            0.33457557
+          ],
+          "reveal": [
+            6,
+            7,
+            8
+          ],
+          "alt": "CU, a tight two-shot. Firouze, quiet: *why?* Barfi gives her The Look. This is the line that explains the whole book, so leave real room for it."
+        },
+        {
+          "page": "13",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "alt": "Full page 13."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.0546875,
+            0.03901273885350318,
+            0.6427283653846154,
+            0.12300955414012739
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.0546875,
+            0.03901273885350318,
+            0.6427283653846154,
+            0.12300955414012739
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.29146634615384615,
+            0.09494426751592357,
+            0.4059495192307692,
+            0.06707802547770701
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.13671875,
+            0.5296576433121019,
+            0.03665865384615385,
+            0.01054936305732484
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.36868990384615385,
+            0.669984076433121,
+            0.5808293269230769,
+            0.12201433121019108
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.38521634615384615,
+            0.8680334394904459,
+            0.5552884615384616,
+            0.08857484076433121
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.36868990384615385,
+            0.669984076433121,
+            0.5808293269230769,
+            0.12201433121019108
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.36868990384615385,
+            0.669984076433121,
+            0.5808293269230769,
+            0.12201433121019108
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.38521634615384615,
+            0.8680334394904459,
+            0.5552884615384616,
+            0.08857484076433121
+          ],
+          "file": "l8.webp"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "14",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 14."
+        },
+        {
+          "page": "14",
+          "kind": "panel",
+          "rect": [
+            0,
+            0,
+            0.4990808823529412,
+            0.3340097402597403
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "MS, on the stepped street going uphill. Firouze carries Barfi, who hangs over her arm like a sack of wet flour, legs dangling, face eloquent with complaint about the angle."
+        },
+        {
+          "page": "14",
+          "kind": "panel",
+          "rect": [
+            0.4990808823529412,
+            0,
+            0.5009191176470589,
+            0.3340097402597403
+          ],
+          "reveal": [],
+          "alt": "MS, the kitchen. Cupboards are still open and the cold mug still has its skin. Barfi on **his chair by the window**, turned once and lain down, occupying it so completely that the hair on it stops being a clue and becomes a decision."
+        },
+        {
+          "page": "14",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.3340097402597403,
+            0.4990808823529412,
+            0.32061688311688313
+          ],
+          "reveal": [
+            2,
+            3,
+            4
+          ],
+          "alt": "MS, low. A **plate** (not a bowl) with the last skin on it, set on the flagstone by the stove in **the precise place**. Barfi on the floor before it, looking at the plate and then up at her."
+        },
+        {
+          "page": "14",
+          "kind": "panel",
+          "rect": [
+            0.4990808823529412,
+            0.3340097402597403,
+            0.5009191176470589,
+            0.32061688311688313
+          ],
+          "reveal": [],
+          "alt": "MS, Firouze in the bedroom doorway, seen from behind. Beyond her, the shape under the blanket with no face, one arm flung into the cold half, the warm half left for her. Her body says she could wake him. She doesn't."
+        },
+        {
+          "page": "14",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.6546266233766234,
+            0.34420955882352944,
+            0.34537337662337664
+          ],
+          "reveal": [
+            5,
+            6
+          ],
+          "alt": "CU, the **errand slate** by the street door. Her hand with the chalk has just finished writing. Diegetic text: `Oil.` / `Thread.` / `Ask about the roof.` and underneath, in her capitals, `BARFI. PENNY. BOWLS.` The letters **hold**, crisp."
+        },
+        {
+          "page": "14",
+          "kind": "panel",
+          "rect": [
+            0.34420955882352944,
+            0.6546266233766234,
+            0.3157169117647059,
+            0.34537337662337664
+          ],
+          "reveal": [],
+          "alt": "Barfi gets down off his chair in three positions (front paws down, belly sliding, all four down) and walks towards the open door."
+        },
+        {
+          "page": "14",
+          "kind": "panel",
+          "rect": [
+            0.6599264705882353,
+            0.6546266233766234,
+            0.3400735294117647,
+            0.34537337662337664
+          ],
+          "reveal": [
+            7,
+            8,
+            9
+          ],
+          "alt": "MS, from inside the kitchen. Barfi sits **in the middle of the open threshold**, his back to the kitchen and his face to the hill. Firouze stands behind him."
+        },
+        {
+          "page": "14",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "alt": "Full page 14."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.22150735294117646,
+            0.03591720779220779,
+            0.037377450980392156,
+            0.012378246753246754
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.22150735294117646,
+            0.03591720779220779,
+            0.0784313725490196,
+            0.030235389610389612
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.3069852941176471,
+            0.369724025974026,
+            0.18627450980392157,
+            0.09740259740259741
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.3069852941176471,
+            0.369724025974026,
+            0.18627450980392157,
+            0.09740259740259741
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.3069852941176471,
+            0.5430194805194806,
+            0.1568627450980392,
+            0.08603896103896104
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.18382352941176472,
+            0.5430194805194806,
+            0.2800245098039216,
+            0.20089285714285715
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.12683823529411764,
+            0.9239042207792207,
+            0.1878063725490196,
+            0.056209415584415584
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.12683823529411764,
+            0.5430194805194806,
+            0.8204656862745098,
+            0.43709415584415584
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.12683823529411764,
+            0.5430194805194806,
+            0.8204656862745098,
+            0.43709415584415584
+          ],
+          "file": "l8.webp"
+        },
+        {
+          "index": 9,
+          "bbox": [
+            0.12683823529411764,
+            0.5430194805194806,
+            0.8204656862745098,
+            0.43709415584415584
+          ],
+          "file": "l9.webp"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "15",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 15."
+        },
+        {
+          "page": "15",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.0115942,
+            0.36375,
+            0.34285714
+          ],
+          "reveal": [],
+          "alt": "MS. Barfi walks ahead along the foot of a **low wall**, at his own slow pace, and Firouze follows at his pace. Along the top of the wall runs a row of **new iron spikes, not yet rusted**, bright against old stone."
+        },
+        {
+          "page": "15",
+          "kind": "panel",
+          "rect": [
+            0.36375,
+            0.0115942,
+            0.285625,
+            0.34285714
+          ],
+          "reveal": [],
+          "alt": "CU. The **gap under the chandler's step**, where kittens were always born, **bricked up**, the mortar still pale and wet-looking."
+        },
+        {
+          "page": "15",
+          "kind": "panel",
+          "rect": [
+            0.649375,
+            0.0115942,
+            0.350625,
+            0.34285714
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "MS. The yard behind the rope-seller's. Barfi backs out from under a crate, sneezing, his rump in the air and his face crumpled."
+        },
+        {
+          "page": "15",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.35445135,
+            1,
+            0.2621118
+          ],
+          "reveal": [
+            1
+          ],
+          "alt": "ECU. **The collar** in Firouze's open palm: old leather, dye gone, a small brass bell. The bell is tipped so we can see inside it: **the tongue has been cut out**, a clean little stump. It weighs almost nothing. Her thumb rests beside it, turquoise thread at the wrist."
+        },
+        {
+          "page": "15",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.61656315,
+            0.4303125,
+            0.35900621
+          ],
+          "reveal": [],
+          "alt": "CU. A doorframe up the hill: **claw marks filed smooth**, pale dust still in the grooves. Her fingertip runs along them."
+        },
+        {
+          "page": "15",
+          "kind": "panel",
+          "rect": [
+            0.4303125,
+            0.61656315,
+            0.5696875,
+            0.35900621
+          ],
+          "reveal": [
+            2,
+            3,
+            4
+          ],
+          "alt": "MS. At a turn of the street, Firouze draws **white fur** out of a split in the stone. It is only fur. Barfi sniffs it and sneezes again: an ordinary, undignified sneeze. A **passing woman** clicks her tongue at the mess Firouze is making of the wall."
+        },
+        {
+          "page": "15",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "Full page 15."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.7638221153846154,
+            0.2921974522292994,
+            0.05228365384615385,
+            0.015326433121019108
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.0751201923076923,
+            0.37937898089171973,
+            0.1700721153846154,
+            0.03125
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.8245192307692307,
+            0.6407245222929936,
+            0.02734375,
+            0.01054936305732484
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.8765024038461539,
+            0.8333996815286624,
+            0.04717548076923077,
+            0.013335987261146497
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.7097355769230769,
+            0.9094347133757962,
+            0.18088942307692307,
+            0.03125
+          ],
+          "file": "l4.webp"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "16",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 16."
+        },
+        {
+          "page": "16",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01365894,
+            0.58375,
+            0.32822848
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "MS. A house with a **green door**. At chest height, a piece of **fish is pressed into a crack** in the plaster, its oil fresh and shining. The **green-door woman** stands in the doorway wiping floury hands on her apron, looking at the fish as if she had meant to take it down and already failed twice. Firouze arrives, with Barfi behind her."
+        },
+        {
+          "page": "16",
+          "kind": "panel",
+          "rect": [
+            0.58375,
+            0.01365894,
+            0.41625,
+            0.32822848
+          ],
+          "reveal": [
+            1,
+            2
+          ],
+          "alt": "CU, the woman. She hears herself and her mouth goes tight. She is angry at her own hands, not at Firouze."
+        },
+        {
+          "page": "16",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.34188742,
+            0.501875,
+            0.31498344
+          ],
+          "reveal": [
+            3,
+            4,
+            5
+          ],
+          "alt": "MS. Firouze, gently precise. The woman is already turning to go in."
+        },
+        {
+          "page": "16",
+          "kind": "panel",
+          "rect": [
+            0.501875,
+            0.34188742,
+            0.498125,
+            0.31498344
+          ],
+          "reveal": [],
+          "alt": "MS. Barfi rises on his hind legs against the wall, sniffs the fish, and comes down again, unimpressed. Not his fish. Not a bowl. The wall is not a kitchen."
+        },
+        {
+          "page": "16",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.65687086,
+            0.501875,
+            0.32905629
+          ],
+          "reveal": [
+            6,
+            7
+          ],
+          "alt": "MS. The next door opens on the **man in dry shoes**, mid-yawn: the long, luxurious yawn of someone who slept all night without being walked on. Good robe, spotless dry house shoes on a dry step. He has the calm of ownership."
+        },
+        {
+          "page": "16",
+          "kind": "panel",
+          "rect": [
+            0.501875,
+            0.65687086,
+            0.498125,
+            0.32905629
+          ],
+          "reveal": [
+            8,
+            9
+          ],
+          "alt": "OTS from behind Firouze, looking past the man into his **clean front room**: one chair, not a hair, a room nobody was ever waited for in. His eyes pass over Barfi as if over a bag of laundry."
+        },
+        {
+          "page": "16",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "alt": "Full page 16."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.19699754901960784,
+            0.05864448051948052,
+            0.13633578431372548,
+            0.053368506493506496
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.5998774509803921,
+            0.16314935064935066,
+            0.3704044117647059,
+            0.109375
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.5998774509803921,
+            0.16314935064935066,
+            0.3704044117647059,
+            0.109375
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.053002450980392156,
+            0.35775162337662336,
+            0.28890931372549017,
+            0.049310064935064936
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.053002450980392156,
+            0.35775162337662336,
+            0.41881127450980393,
+            0.08400974025974026
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.37745098039215685,
+            0.42146915584415584,
+            0.09436274509803921,
+            0.020292207792207792
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.04840686274509804,
+            0.6868912337662337,
+            0.4338235294117647,
+            0.16071428571428573
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.04840686274509804,
+            0.6710633116883117,
+            0.9096200980392157,
+            0.1765422077922078
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.3272058823529412,
+            0.6710633116883117,
+            0.6308210784313726,
+            0.1765422077922078
+          ],
+          "file": "l8.webp"
+        },
+        {
+          "index": 9,
+          "bbox": [
+            0.7022058823529411,
+            0.924512987012987,
+            0.19607843137254902,
+            0.03125
+          ],
+          "file": "l9.webp"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "width": 3264,
+      "height": 4928,
+      "steps": [
+        {
+          "page": "17",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 17."
+        },
+        {
+          "page": "17",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00951987,
+            1,
+            0.39114238
+          ],
+          "reveal": [],
+          "alt": "The turn of the hill. **The old chapel**: dark stone worn to the shape of rain and thumbs, its niches full of soft, half-gone animal carvings (a flank, a paw, a tail curled around a set of feet). Beside it, **the new wing**, limewashed clean grey going to violet, the only clean thing on the hill. Under its overhang the **front step is dry**, with a sharp line between wet stone and dry. The new door's carvings are **hands, bowls, closed eyes**, and no animals at all. Firouze and Barfi are small in the foreground on the wet street."
+        },
+        {
+          "page": "17",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.40066225,
+            0.34875,
+            0.27028146
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "CU. A **grate** low in the foundation, breathing warm air (heat shimmer). Optional: one tiny pale ear-tip in the dark beyond the bars."
+        },
+        {
+          "page": "17",
+          "kind": "panel",
+          "rect": [
+            0.34875,
+            0.40066225,
+            0.3009375,
+            0.27028146
+          ],
+          "reveal": [
+            1
+          ],
+          "alt": "MS, low. Barfi stops **exactly at the line** where wet stone meets the dry step and will not put a paw on it."
+        },
+        {
+          "page": "17",
+          "kind": "panel",
+          "rect": [
+            0.6496875,
+            0.40066225,
+            0.3503125,
+            0.27028146
+          ],
+          "reveal": [
+            2,
+            3
+          ],
+          "alt": "MS. Firouze turns to him. Barfi sits down on the wet side with his back very straight, looking at the clean door the way he looks at anyone holding a pill."
+        },
+        {
+          "page": "17",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.67094371,
+            1,
+            0.31788079
+          ],
+          "reveal": [
+            4
+          ],
+          "alt": "MS. Firouze's head snaps towards the **cut-through** beyond the wing. Her legs have already decided and her body is mid-turn. Barfi's ears swivel the same way. From off-panel right comes a **yowl**: a voice with a knife in it, a voice with opinions."
+        },
+        {
+          "page": "17",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "Full page 17."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.09191176470588236,
+            0.424512987012987,
+            0.18627450980392157,
+            0.03125
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.5517769607843137,
+            0.5878652597402597,
+            0.05943627450980392,
+            0.05133928571428571
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.7003676470588235,
+            0.4237012987012987,
+            0.15257352941176472,
+            0.026379870129870128
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.7769607843137255,
+            0.5328733766233766,
+            0.06924019607843138,
+            0.053368506493506496
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.4267769607843137,
+            0.7146915584415584,
+            0.5122549019607843,
+            0.08056006493506493
+          ],
+          "file": "l4.webp"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "18",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 18."
+        },
+        {
+          "page": "18",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00869565,
+            1,
+            0.35445135
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "WS–MS, low and angled (a Dutch tilt is fine; this is Penny's language). **Penny** stands in the cut-through, **mouth wide open** mid-yowl, **tail lashing**, writing insults on the air. Long lines, dark mask, ears and legs, pale body. She faces a **gap in a fence** where one board has sprung. Beyond it is an empty **crate-yard**: no one there. A knocked crate lies in the alley. Firouze has just rounded the corner of the annex wing at the far left edge, out of breath. Behind her, Barfi edges along the very margin of the dry annex step, refusing to touch it, like a man walking around a spill of paint he won't acknowledge."
+        },
+        {
+          "page": "18",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.363147,
+            0.498125,
+            0.30848861
+          ],
+          "reveal": [
+            1
+          ],
+          "alt": "MS. Penny turns her head and sees Firouze. **She does not come closer.** Clear empty space between them."
+        },
+        {
+          "page": "18",
+          "kind": "panel",
+          "rect": [
+            0.498125,
+            0.363147,
+            0.501875,
+            0.30848861
+          ],
+          "reveal": [
+            2,
+            3,
+            4
+          ],
+          "alt": "MS. Penny swings back to the fence and complains, ears pinned, mouth open. For the alley it's a yowl; for Firouze the sentences come very fast."
+        },
+        {
+          "page": "18",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.67163561,
+            0.3075,
+            0.30020704
+          ],
+          "reveal": [
+            5
+          ],
+          "alt": "WS, the far end of the alley. A **porter** with a crate on his shoulder bellows at the noise. He has no noun for what he wants shut. He shoulders on and leaves."
+        },
+        {
+          "page": "18",
+          "kind": "panel",
+          "rect": [
+            0.3075,
+            0.67163561,
+            0.3903125,
+            0.30020704
+          ],
+          "reveal": [
+            6
+          ],
+          "alt": "MS. Firouze **crouches**. Penny takes **one step back** to keep the distance exactly where it was."
+        },
+        {
+          "page": "18",
+          "kind": "panel",
+          "rect": [
+            0.6978125,
+            0.67163561,
+            0.3021875,
+            0.30020704
+          ],
+          "reveal": [
+            7,
+            8
+          ],
+          "alt": "CU, Penny in three-quarter view, tail lashing, one ear forward. Smug and impatient."
+        },
+        {
+          "page": "18",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "alt": "Full page 18."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.5910456730769231,
+            0.08220541401273886,
+            0.34765625,
+            0.0553343949044586
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.2325721153846154,
+            0.37738853503184716,
+            0.7286658653846154,
+            0.14629777070063693
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.2325721153846154,
+            0.37738853503184716,
+            0.7286658653846154,
+            0.14629777070063693
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.2325721153846154,
+            0.37738853503184716,
+            0.7286658653846154,
+            0.14629777070063693
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.6189903846153846,
+            0.6224124203821656,
+            0.24158653846153846,
+            0.026871019108280256
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.14423076923076922,
+            0.6918789808917197,
+            0.42337740384615385,
+            0.07205414012738853
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.14423076923076922,
+            0.6843152866242038,
+            0.8094951923076923,
+            0.20820063694267515
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.3284254807692308,
+            0.6224124203821656,
+            0.6253004807692307,
+            0.20939490445859874
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.7229567307692307,
+            0.8600716560509554,
+            0.23407451923076922,
+            0.06847133757961783
+          ],
+          "file": "l8.webp"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "19",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 19."
+        },
+        {
+          "page": "19",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00621118,
+            0.4984375,
+            0.27660455
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "MS. Barfi has sat down in the part of the alley that offends him least (a dry-ish stone under an eave), with his back to the annex, already beginning to sulk."
+        },
+        {
+          "page": "19",
+          "kind": "panel",
+          "rect": [
+            0.4984375,
+            0.00621118,
+            0.5015625,
+            0.27660455
+          ],
+          "reveal": [
+            1,
+            2
+          ],
+          "alt": "MS. Penny, ears flat and then forward, nose up, pointing herself at the annex's back wall."
+        },
+        {
+          "page": "19",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.28281573,
+            0.498125,
+            0.21614907
+          ],
+          "reveal": [
+            3
+          ],
+          "alt": "CU, Barfi. Immovable."
+        },
+        {
+          "page": "19",
+          "kind": "panel",
+          "rect": [
+            0.498125,
+            0.28281573,
+            0.501875,
+            0.21614907
+          ],
+          "reveal": [
+            4
+          ],
+          "alt": "CU, Penny, mouth open, tail rigid."
+        },
+        {
+          "page": "19",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.4989648,
+            1,
+            0.21573499
+          ],
+          "reveal": [
+            5,
+            6
+          ],
+          "alt": "MS, two-shot of the cats with Firouze crouched between them in the background, listening."
+        },
+        {
+          "page": "19",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.71469979,
+            1,
+            0.25797101
+          ],
+          "reveal": [
+            7,
+            8,
+            9
+          ],
+          "alt": "MS. Penny turns **the side of her face** towards Firouze (how she looks at things she intends to keep). Barfi in the foreground, low."
+        },
+        {
+          "page": "19",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "alt": "Full page 19."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.3167067307692308,
+            0.2099920382165605,
+            0.16676682692307693,
+            0.03821656050955414
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.5267427884615384,
+            0.024482484076433123,
+            0.43900240384615385,
+            0.11723726114649681
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.5267427884615384,
+            0.024482484076433123,
+            0.43900240384615385,
+            0.11723726114649681
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.2400841346153846,
+            0.43730095541401276,
+            0.23978365384615385,
+            0.04956210191082803
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.2400841346153846,
+            0.2947850318471338,
+            0.7115384615384616,
+            0.192078025477707
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.07211538461538461,
+            0.43730095541401276,
+            0.40775240384615385,
+            0.14470541401273884
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.07211538461538461,
+            0.2947850318471338,
+            0.8864182692307693,
+            0.29697452229299365
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.2605168269230769,
+            0.7219347133757962,
+            0.7352764423076923,
+            0.1500796178343949
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.2605168269230769,
+            0.7219347133757962,
+            0.7352764423076923,
+            0.1500796178343949
+          ],
+          "file": "l8.webp"
+        },
+        {
+          "index": 9,
+          "bbox": [
+            0.2605168269230769,
+            0.7219347133757962,
+            0.7352764423076923,
+            0.1500796178343949
+          ],
+          "file": "l9.webp"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "20",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 20."
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00786749,
+            1,
+            0.28281573
+          ],
+          "reveal": [],
+          "alt": "WS, the composition the scene is built on. **Firouze** stands in the middle of the alley. On the left, **Barfi**, low, white and immovable, with his back to the annex and his face down the hill towards home. On the right, **Penny**, at exactly one body-length, mouth already open for the next thing. Both look at her. The annex wall looms pale behind.",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.29068323,
+            0.404375,
+            0.20124224
+          ],
+          "reveal": [],
+          "alt": "LEGS — GOING, fast and short.",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0.404375,
+            0.29068323,
+            0.1890625,
+            0.20124224
+          ],
+          "reveal": [],
+          "alt": "- **3a:** The **empty square of sun** on the chandler's step, with the faint memory ghost of the toast-coloured tabby (the second and final use of the ghost device).",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0.5934375,
+            0.29068323,
+            0.17125,
+            0.20124224
+          ],
+          "reveal": [],
+          "alt": "Firouze's face. The anger arrives all at once. It is not hot; it is exact. Steady eyes, still face, chin slightly lowered, like a fault finally found.",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0.7646875,
+            0.29068323,
+            0.2353125,
+            0.20124224
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "LEGS — STOP.",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.49192547,
+            0.5740625,
+            0.19751553
+          ],
+          "reveal": [
+            1,
+            2
+          ],
+          "alt": "MS. Firouze stands up straight, addressing both of them. Precise.",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0.5740625,
+            0.49192547,
+            0.4259375,
+            0.19751553
+          ],
+          "reveal": [],
+          "alt": "MS, two beats in one panel. On the right, **Penny bats a stone hard into the fence**: that is her agreement. On the left, **Barfi stands up**, which takes him a moment.",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.68944099,
+            0.4296875,
+            0.29937888
+          ],
+          "reveal": [
+            3,
+            4
+          ],
+          "alt": "Panel on page 20.",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "panel",
+          "rect": [
+            0.4296875,
+            0.68944099,
+            0.5703125,
+            0.29937888
+          ],
+          "reveal": [
+            5,
+            6
+          ],
+          "alt": "Panel on page 20.",
+          "fx": "memory"
+        },
+        {
+          "page": "20",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "alt": "Full page 20."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.8022836538461539,
+            0.43192675159235666,
+            0.14513221153846154,
+            0.032046178343949044
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.3641826923076923,
+            0.5207006369426752,
+            0.19591346153846154,
+            0.12898089171974522
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.3641826923076923,
+            0.5207006369426752,
+            0.19591346153846154,
+            0.12898089171974522
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.03756009615384615,
+            0.695859872611465,
+            0.8933293269230769,
+            0.13495222929936307
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.03756009615384615,
+            0.695859872611465,
+            0.9332932692307693,
+            0.13495222929936307
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.6397235576923077,
+            0.7420382165605095,
+            0.34585336538461536,
+            0.06488853503184713
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.6397235576923077,
+            0.7420382165605095,
+            0.34585336538461536,
+            0.06488853503184713
+          ],
+          "file": "l6.webp"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "21",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 21."
+        },
+        {
+          "page": "21",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.02277433,
+            0.4315625,
+            0.29813665
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "CU. Firouze's hand lifts the **clerk's latch** on the annex back door. It gives easily. Behind her, the alley."
+        },
+        {
+          "page": "21",
+          "kind": "panel",
+          "rect": [
+            0.4315625,
+            0.02277433,
+            0.5684375,
+            0.29813665
+          ],
+          "reveal": [
+            1
+          ],
+          "alt": "WS down the **corridor**: limewashed, **not a grain of dust**, flat sourceless light. Penny trots first, nose working, muttering. Barfi follows hard along the wall, where the wall is least likely to be a trick, his disapproval almost visible like steam. Firouze behind. **The back door stands open** behind them all."
+        },
+        {
+          "page": "21",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.32091097,
+            1,
+            0.36935818
+          ],
+          "reveal": [
+            2,
+            3
+          ],
+          "alt": "MS–WS. The **tea room**. A plain table, and seated at it **Sera Vellin**, late forties, handsome and tired, hair pinned, washed white cuffs, a plain steel pin at her throat. She is pouring the second cup of tea as they enter, already smiling. Steam rises. On the table, beside the pot: a **ledger bound in clean grey cloth** and a wide shallow **bowl of black water**, so black and still it looks like a hole in the table. Behind her, a **window** onto the old chapel wall. To one side, a **sideboard**. In the foreground, the old dark **doorframe** they are coming through."
+        },
+        {
+          "page": "21",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.69026915,
+            0.335,
+            0.09923085
+          ],
+          "reveal": [],
+          "alt": "ECU, Sera's eyes. Smiling crinkles, but the eyes are **counting**: their eye-line flicks across the room (draw small reflections or eye-line arrows if you like: the wet prints, the open door, the white mass, the masked face)."
+        },
+        {
+          "page": "21",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.7895,
+            0.335,
+            0.18275673
+          ],
+          "reveal": [
+            4
+          ],
+          "alt": "CU, the table detail: the teapot with steam (generous, wonderful), the grey-cloth ledger, the black bowl with no reflection."
+        },
+        {
+          "page": "21",
+          "kind": "panel",
+          "rect": [
+            0.335,
+            0.69026915,
+            0.665,
+            0.28198758
+          ],
+          "reveal": [
+            5,
+            6
+          ],
+          "alt": "MS, the positions that hold for the whole scene. **Firouze** sits at the table, wet coat, **hands flat on the tabletop** (the hand rhyme). **Penny** stays by the **sideboard**, out of reach, mouth closed for once, eyes on the bowl. **Barfi** stays in the **doorway**, pressed against the old doorframe, the only honest object in the room."
+        },
+        {
+          "page": "21",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "alt": "Full page 21."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.3073918269230769,
+            0.07822452229299363,
+            0.3434495192307692,
+            0.15963375796178345
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.3073918269230769,
+            0.07822452229299363,
+            0.3434495192307692,
+            0.15963375796178345
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.13731971153846154,
+            0.40485668789808915,
+            0.6496394230769231,
+            0.12420382165605096
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.13731971153846154,
+            0.40485668789808915,
+            0.6496394230769231,
+            0.12420382165605096
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.06280048076923077,
+            0.79796974522293,
+            0.15564903846153846,
+            0.03125
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.3563701923076923,
+            0.7040207006369427,
+            0.5603966346153846,
+            0.059912420382165606
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.3563701923076923,
+            0.7040207006369427,
+            0.5603966346153846,
+            0.059912420382165606
+          ],
+          "file": "l6.webp"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "22",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 22."
+        },
+        {
+          "page": "22",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.02153209,
+            0.5003125,
+            0.32546584
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "MS. Sera leans forward a little, warmly, her cup between her hands."
+        },
+        {
+          "page": "22",
+          "kind": "panel",
+          "rect": [
+            0.5003125,
+            0.02153209,
+            0.4996875,
+            0.32546584
+          ],
+          "reveal": [
+            1
+          ],
+          "alt": "MS, Sera talking, gentle and admiring. Firouze across the table, wary."
+        },
+        {
+          "page": "22",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.34699793,
+            0.595625,
+            0.31718427
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "Firouze. **The shine begins**: warmth rising from her collarbone into her face, her eyes opening a little, her mouth softening. Paint it as a literal warm flush in a cold room. It is real: the compliment is true."
+        },
+        {
+          "page": "22",
+          "kind": "panel",
+          "rect": [
+            0.595625,
+            0.34699793,
+            0.404375,
+            0.31718427
+          ],
+          "reveal": [],
+          "alt": "ECU, Sera's face, cropped mouth to eyes. **Her mouth is kind and her eyes are still counting.** The two halves of the face disagree."
+        },
+        {
+          "page": "22",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.66418219,
+            0.5,
+            0.3126294
+          ],
+          "reveal": [
+            3,
+            4
+          ],
+          "alt": "CU, Firouze. The warmth **goes back down** where it came from. Her face is cool and grey-violet again, her eyes steady. Her hands stay flat on the table."
+        },
+        {
+          "page": "22",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.66418219,
+            0.5,
+            0.3126294
+          ],
+          "reveal": [],
+          "alt": "MS. Sera has seen it go. A slight, approving tilt of her head, the way you approve of a good lock. Under the table, a small inset or the lower part of the panel: LEGS — GOING, quietly."
+        },
+        {
+          "page": "22",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "Full page 22."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.06911057692307693,
+            0.047173566878980895,
+            0.7397836538461539,
+            0.13296178343949044
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.5171274038461539,
+            0.047173566878980895,
+            0.2917668269230769,
+            0.07464171974522293
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.4221754807692308,
+            0.38296178343949044,
+            0.16646634615384615,
+            0.12400477707006369
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.3269230769230769,
+            0.677547770700637,
+            0.15955528846153846,
+            0.11186305732484077
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.3269230769230769,
+            0.677547770700637,
+            0.15955528846153846,
+            0.11186305732484077
+          ],
+          "file": "l4.webp"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "23",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 23."
+        },
+        {
+          "page": "23",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01987578,
+            1,
+            0.32836439
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "MS. Sera turns her cup a quarter turn on its saucer: a tidy, practised gesture. She speaks like someone reading a fair policy aloud."
+        },
+        {
+          "page": "23",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.34824017,
+            0.500625,
+            0.31552795
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "MS. Sera's gaze drifts to the window. Her voice is still tidy, but she is somewhere else."
+        },
+        {
+          "page": "23",
+          "kind": "panel",
+          "rect": [
+            0.500625,
+            0.34824017,
+            0.499375,
+            0.31552795
+          ],
+          "reveal": [
+            3
+          ],
+          "alt": "CU, Sera, tightly cropped. **The tidy voice breaks for one breath.** Her jaw is tight and her fingers have stopped on the cup."
+        },
+        {
+          "page": "23",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.66376812,
+            0.5003125,
+            0.31511387
+          ],
+          "reveal": [
+            4,
+            5,
+            6
+          ],
+          "alt": "MS, two-shot. Sera has recovered, smoother for having slipped. Firouze has flat hands and hard eyes."
+        },
+        {
+          "page": "23",
+          "kind": "panel",
+          "rect": [
+            0.5003125,
+            0.66376812,
+            0.4996875,
+            0.31511387
+          ],
+          "reveal": [
+            7,
+            8
+          ],
+          "alt": "CU. Sera turns the cup so its **handle faces Firouze**, offering. She is gentle, and she means it. The ledger sits at her elbow."
+        },
+        {
+          "page": "23",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "alt": "Full page 23."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.3203125,
+            0.0481687898089172,
+            0.6259014423076923,
+            0.11863057324840764
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.3203125,
+            0.0481687898089172,
+            0.6259014423076923,
+            0.11863057324840764
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.2653245192307692,
+            0.3572850318471338,
+            0.4777644230769231,
+            0.11445063694267515
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.2653245192307692,
+            0.3572850318471338,
+            0.4777644230769231,
+            0.11445063694267515
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.08533653846153846,
+            0.6687898089171974,
+            0.8557692307692307,
+            0.2663216560509554
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.08533653846153846,
+            0.6773487261146497,
+            0.39783653846153844,
+            0.2577627388535032
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.08533653846153846,
+            0.6687898089171974,
+            0.8557692307692307,
+            0.2663216560509554
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.30228365384615385,
+            0.6687898089171974,
+            0.6388221153846154,
+            0.2663216560509554
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.30228365384615385,
+            0.6687898089171974,
+            0.6388221153846154,
+            0.2663216560509554
+          ],
+          "file": "l8.webp"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "24",
+          "kind": "panel",
+          "rect": [
+            0,
+            0,
+            1,
+            0.37060041
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "The kitchen **as Sera offers it**, soft-edged like a dream. **The shelf with no gap in it**, because there was never anything to make a gap: turquoise cup, saucer, plate, and wall. **The chair by the window with no hair on it.** A neat, sunlit, perfectly quiet kitchen. Firouze asleep in the warm half of the bed through the doorway, peaceful. A mug poured on the table. Nothing missing, because nothing was ever there. It is beautiful, and that's the cruelty.",
+          "fx": "temptation"
+        },
+        {
+          "page": "24",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.37060041,
+            0.5,
+            0.22028986
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "CU, Firouze, coming back from the image. Short.",
+          "fx": "temptation"
+        },
+        {
+          "page": "24",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.37060041,
+            0.5,
+            0.22028986
+          ],
+          "reveal": [
+            3
+          ],
+          "alt": "CU, Sera, reasonable.",
+          "fx": "temptation"
+        },
+        {
+          "page": "24",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.59089027,
+            0.5,
+            0.17971014
+          ],
+          "reveal": [
+            4,
+            5
+          ],
+          "alt": "ECU, Firouze's eyes and the bridge of her nose. **Precise.** This is the voice she has never once used over a bowl.",
+          "fx": "temptation"
+        },
+        {
+          "page": "24",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.59089027,
+            0.5,
+            0.17971014
+          ],
+          "reveal": [
+            6
+          ],
+          "alt": "MS. Firouze leans forward over the table, hands still flat, the turquoise thread vivid against the grey. Sera sits very still.",
+          "fx": "temptation"
+        },
+        {
+          "page": "24",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.77060041,
+            1,
+            0.21118012
+          ],
+          "reveal": [
+            7
+          ],
+          "alt": "CU on the tabletop. Firouze's hand **pulls the grey ledger across to her side**. Sera's hand rests beside the pin and **lets her**. That is her pride: a woman who believes a tidy page can survive being read.",
+          "fx": "temptation"
+        },
+        {
+          "page": "24",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "alt": "Full page 24."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.12620192307692307,
+            0.05931528662420382,
+            0.2878605769230769,
+            0.04936305732484077
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.5384615384615384,
+            0.1982484076433121,
+            0.19501201923076922,
+            0.07543789808917198
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.3323317307692308,
+            0.4094347133757962,
+            0.14152644230769232,
+            0.06648089171974522
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.7872596153846154,
+            0.5111464968152867,
+            0.14753605769230768,
+            0.05573248407643312
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.06129807692307692,
+            0.621218152866242,
+            0.4221754807692308,
+            0.1224124203821656
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.06129807692307692,
+            0.5997213375796179,
+            0.7668269230769231,
+            0.1439092356687898
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.38461538461538464,
+            0.5111464968152867,
+            0.5501802884615384,
+            0.23248407643312102
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.52734375,
+            0.8763933121019108,
+            0.32421875,
+            0.06727707006369427
+          ],
+          "file": "l7.webp"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "25",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 25."
+        },
+        {
+          "page": "25",
+          "kind": "panel",
+          "rect": [
+            0,
+            0,
+            1,
+            0.2685111464968153
+          ],
+          "reveal": [],
+          "fx": "memory",
+          "alt": "ECU, the open ledger, top-down. Good paper, lines of small exact ink, each closed at the end with a dark pin-prick dot. Firouze's fingertip rests under the last line."
+        },
+        {
+          "page": "25",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.2685111464968153,
+            0.5,
+            0.26413216560509556
+          ],
+          "reveal": [
+            0
+          ],
+          "fx": "memory",
+          "alt": "CU, Firouze reading aloud, a little bowed over the page. A borderless warm memory inset in the corner: Firouze on the chandler's steps beside the toast-coloured tabby."
+        },
+        {
+          "page": "25",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.2685111464968153,
+            0.5,
+            0.26413216560509556
+          ],
+          "reveal": [],
+          "fx": "memory",
+          "alt": "ECU. The ink frets under her finger. The letters lift slightly off the paper and tremble, and tiny beads rise at the pin-prick dot."
+        },
+        {
+          "page": "25",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.5326433121019108,
+            0.5,
+            0.24462579617834396
+          ],
+          "reveal": [
+            1,
+            2
+          ],
+          "fx": "memory",
+          "alt": "MS. Firouze reads on, the page beginning to shimmer. At the sideboard, Penny's head jerks up."
+        },
+        {
+          "page": "25",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.5326433121019108,
+            0.5,
+            0.24462579617834396
+          ],
+          "reveal": [
+            3
+          ],
+          "fx": "memory",
+          "alt": "ECU, the last page. A faster, rougher hand, and in the margin the name written and failed: Barfi. Penny. Barfi. A bead of ink at the end, unclosed."
+        },
+        {
+          "page": "25",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.7772691082802548,
+            1,
+            0.22273089171974522
+          ],
+          "reveal": [],
+          "fx": "memory",
+          "alt": "ECU. The very front of the ledger. Older ink, one line closed so hard the nib grooved the paper: Moth. Above it, pressed until the pen spat: Talen. Penny's tail gone still, and Barfi's eyes in the doorway."
+        },
+        {
+          "page": "25",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "alt": "Full page 25."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.04927884615384615,
+            0.3664410828025478,
+            0.24549278846153846,
+            0.06747611464968153
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.05228365384615385,
+            0.6464968152866242,
+            0.22145432692307693,
+            0.06429140127388536
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.43990384615384615,
+            0.5523487261146497,
+            0.04266826923076923,
+            0.012539808917197453
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.5985576923076923,
+            0.7241242038216561,
+            0.35727163461538464,
+            0.04378980891719745
+          ],
+          "file": "l3.webp"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "26",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01656315,
+            0.5003125,
+            0.25383023
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "CU on the ledger's front page. Firouze's finger beside the grooved line. The groove **darkens** and the ink in it **lifts very slightly, like a breath**. At the edge of the frame, **Sera's hand moves on the table and stops**."
+        },
+        {
+          "page": "26",
+          "kind": "panel",
+          "rect": [
+            0.5003125,
+            0.01656315,
+            0.4996875,
+            0.25383023
+          ],
+          "reveal": [
+            2
+          ],
+          "alt": "CU, Firouze's face. The morning voice: not louder, not sharper. She is only telling the page that she has seen it."
+        },
+        {
+          "page": "26",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.27039337,
+            0.5,
+            0.25838509
+          ],
+          "reveal": [
+            3
+          ],
+          "alt": "ECU. **The pin drops** out of Sera's fingers onto the table."
+        },
+        {
+          "page": "26",
+          "kind": "panel",
+          "rect": [
+            0.5,
+            0.27039337,
+            0.5,
+            0.25838509
+          ],
+          "reveal": [
+            4,
+            5
+          ],
+          "alt": "CU, Sera. Her mouth opens on the tidy shape of a refusal, and what comes out has **no clerk left in it**."
+        },
+        {
+          "page": "26",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.52877847,
+            1,
+            0.2252588
+          ],
+          "reveal": [
+            6,
+            7,
+            8
+          ],
+          "alt": "MS, two-shot across the table. Sera looks at the black water, **her eyes wet and counting at the same time**. Draw it quiet: this is the worst thing Firouze sees all day."
+        },
+        {
+          "page": "26",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.75403727,
+            1,
+            0.22898551
+          ],
+          "reveal": [
+            9,
+            10
+          ],
+          "alt": "MS. **Penny** at the sideboard, bright and vicious, mouth open. In the foreground, **Sera's head has turned towards her**: she **heard** the sentence, not a yowl. Her teacup clicks against its saucer."
+        },
+        {
+          "page": "26",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "alt": "Full page 26."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.19200721153846154,
+            0.04936305732484077,
+            0.12049278846153846,
+            0.026472929936305734
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.19200721153846154,
+            0.04936305732484077,
+            0.25060096153846156,
+            0.06230095541401274
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.7974759615384616,
+            0.09355095541401273,
+            0.11268028846153846,
+            0.04000796178343949
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.4362980769230769,
+            0.4277468152866242,
+            0.22896634615384615,
+            0.07046178343949044
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.8167067307692307,
+            0.3093152866242038,
+            0.11959134615384616,
+            0.09056528662420382
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.4362980769230769,
+            0.3093152866242038,
+            0.5,
+            0.18889331210191082
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.3323317307692308,
+            0.4277468152866242,
+            0.6087740384615384,
+            0.27169585987261147
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.3323317307692308,
+            0.5431926751592356,
+            0.6087740384615384,
+            0.15625
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.3323317307692308,
+            0.5431926751592356,
+            0.6087740384615384,
+            0.15625
+          ],
+          "file": "l8.webp"
+        },
+        {
+          "index": 9,
+          "bbox": [
+            0.35697115384615385,
+            0.772890127388535,
+            0.2421875,
+            0.041003184713375794
+          ],
+          "file": "l9.webp"
+        },
+        {
+          "index": 10,
+          "bbox": [
+            0.5519831730769231,
+            0.8877388535031847,
+            0.026442307692307692,
+            0.011345541401273885
+          ],
+          "file": "l10.webp"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "27",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 27."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.0173913,
+            0.61,
+            0.2310559
+          ],
+          "reveal": [
+            0
+          ],
+          "alt": "MS. Penny steps onto the table and strikes the black bowl with one paw."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0.61,
+            0.0173913,
+            0.39,
+            0.2310559
+          ],
+          "reveal": [],
+          "alt": "CU. The bowl tips. Black water spills over the rim."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.2484472,
+            1,
+            0.17184265
+          ],
+          "reveal": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "WS, high angle. The water crosses the stone floor, and warm colour comes back where it spreads."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.42028986,
+            0.448125,
+            0.22070393
+          ],
+          "reveal": [],
+          "alt": "MS. Sera reaches for the book. Firouze's hand is already on it."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0.448125,
+            0.42028986,
+            0.19037499999999996,
+            0.22070393
+          ],
+          "reveal": [
+            5
+          ],
+          "alt": "Barfi gets onto the chair beside the table, slowly, with no grace at all."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0.6385,
+            0.42028986,
+            0.18056250000000007,
+            0.22070393
+          ],
+          "reveal": [
+            6
+          ],
+          "alt": "Barfi climbs from the chair onto the table."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0.8190625,
+            0.42028986,
+            0.18093749999999997,
+            0.22070393
+          ],
+          "reveal": [],
+          "alt": "Barfi on the table, seen from behind, the book in front of him."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.64099379,
+            0.7,
+            0.33664596
+          ],
+          "reveal": [
+            7,
+            8
+          ],
+          "alt": "MS. Barfi sits on the open ledger, settled. Sera's hand freezes above him. Firouze's hand rests on the table next to him, not on him."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0.7,
+            0.64099379,
+            0.3,
+            0.15050621
+          ],
+          "reveal": [],
+          "alt": "CU. Sera's hands hover over Barfi without touching."
+        },
+        {
+          "page": "27",
+          "kind": "panel",
+          "rect": [
+            0.7,
+            0.7915,
+            0.3,
+            0.18613975
+          ],
+          "reveal": [],
+          "alt": "CU, the same framing. Sera's hands are in her lap."
+        },
+        {
+          "page": "27",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "alt": "Full page 27."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.3858173076923077,
+            0.08140923566878981,
+            0.11838942307692307,
+            0.035828025477707005
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.12259615384615384,
+            0.298765923566879,
+            0.03365384615384615,
+            0.012340764331210192
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.7683293269230769,
+            0.2832404458598726,
+            0.0634014423076923,
+            0.013335987261146497
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.1935096153846154,
+            0.3652468152866242,
+            0.04417067307692308,
+            0.01373407643312102
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.8620793269230769,
+            0.3284235668789809,
+            0.04567307692307692,
+            0.012937898089171975
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.48287259615384615,
+            0.4394904458598726,
+            0.03395432692307692,
+            0.011345541401273885
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.6760817307692307,
+            0.4359076433121019,
+            0.046274038461538464,
+            0.01214171974522293
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.4405048076923077,
+            0.6719745222929936,
+            0.09735576923076923,
+            0.04000796178343949
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.1063701923076923,
+            0.803343949044586,
+            0.1063701923076923,
+            0.019904458598726114
+          ],
+          "file": "l8.webp"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.0173913,
+            1,
+            0.30062112
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "WS, the corridor. A side door stands open and the cats come up out of the dark. Firouze is small in the tea-room doorway. The back door is open onto wet light."
+        },
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.31801242,
+            0.4996875,
+            0.16728778
+          ],
+          "reveal": [],
+          "alt": "MS. The grey rival has stopped in the tea-room doorway and looks straight at Penny. Penny looks straight back."
+        },
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0.4996875,
+            0.31801242,
+            0.5003125,
+            0.16728778
+          ],
+          "reveal": [],
+          "alt": "MS. The one-eyed beggar of the rope-seller's step looks at Firouze, washes his face once, and has no sentence for her."
+        },
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.48530021,
+            1,
+            0.22277433
+          ],
+          "reveal": [],
+          "alt": "WS, low, from inside the open back door. The cats go out into the wet light. Penny is already ahead. The toast-coloured one goes last."
+        },
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.70807453,
+            0.39375,
+            0.12542547
+          ],
+          "reveal": [],
+          "alt": "Sera flinches in her chair. Her hands are in her lap. Through the window, a thin dark-grey animal sits in the niche on the chapel wall."
+        },
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0.39375,
+            0.70807453,
+            0.1903125,
+            0.26956522
+          ],
+          "reveal": [],
+          "alt": "Barfi is still sitting on the open ledger."
+        },
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0.5840625,
+            0.70807453,
+            0.18143749999999992,
+            0.26956522
+          ],
+          "reveal": [],
+          "alt": "Barfi, front half down onto the chair, no grace."
+        },
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0.7655,
+            0.70807453,
+            0.23450000000000004,
+            0.26956522
+          ],
+          "reveal": [],
+          "alt": "Barfi on the floor. He shakes one paw. The ledger stays open. Firouze's back is already small in the corridor."
+        },
+        {
+          "page": "28",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.8335,
+            0.39375,
+            0.14413975
+          ],
+          "reveal": [],
+          "alt": "The same crop. Sera does not flinch. She goes on looking. She does not get up."
+        },
+        {
+          "page": "28",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "Full page 28."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.29296875,
+            0.12022292993630573,
+            0.04417067307692308,
+            0.010947452229299362
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.5790264423076923,
+            0.1460987261146497,
+            0.04146634615384615,
+            0.01054936305732484
+          ],
+          "file": "l1.webp"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "29",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 29."
+        },
+        {
+          "page": "29",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00703934,
+            0.67,
+            0.3320911
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "MS, the cut-through. Firouze steps out of the **back door at the end of the corridor** (the door she left open on page 21). **It stays open behind her.** This is the corridor door. Do not draw her closing it. Penny is already at the sprung board, mouth open, one body-length from Firouze. From the crate-yard the grey rival **shouts back**: thin, astonished, furious. Barfi comes out after her and shakes the annex off one paw."
+        },
+        {
+          "page": "29",
+          "kind": "panel",
+          "rect": [
+            0.67,
+            0.00703934,
+            0.33,
+            0.3320911
+          ],
+          "reveal": [
+            2,
+            3
+          ],
+          "alt": "MS, the fish stall. The **fishmonger** is cursing to a **customer**. On the pale board, under its little roof, the **toast-coloured cat** eats with its back to the world. Nobody looks at the board. The story has already settled over the stall."
+        },
+        {
+          "page": "29",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.33913043,
+            0.344375,
+            0.32670807
+          ],
+          "reveal": [
+            4
+          ],
+          "alt": "MS, the watch corner. A new crate, the same chalk. The **sergeant** looks at Firouze with ordinary boredom. This is **not** the polite blank from pages 5 and 7: he can see the animal. **Barfi sits on her boot.** The sergeant's eyes pass over Barfi (a cat, plainly, no trouble at all) and on to the traffic. His slate must be legible."
+        },
+        {
+          "page": "29",
+          "kind": "panel",
+          "rect": [
+            0.344375,
+            0.33913043,
+            0.325625,
+            0.32670807
+          ],
+          "reveal": [],
+          "alt": "MS, the green door, open. The fish is **gone** from the crack; the oil-stain is still there. A **stranger's brown tabby** washes its face where the fish was. The woman in the apron stands on the step, arms folded, floury hands. She looks at Firouze once. There is nothing in the look like thanks. She goes inside to her work. The tabby stays. She does not take it in and she does not send it off."
+        },
+        {
+          "page": "29",
+          "kind": "panel",
+          "rect": [
+            0.67,
+            0.33913043,
+            0.33,
+            0.32670807
+          ],
+          "reveal": [
+            5,
+            6
+          ],
+          "alt": "MS. The **man in dry shoes** has his shutter half open and the face of a man whose purchase has spoiled. He sees her and does not know her."
+        },
+        {
+          "page": "29",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.66583851,
+            1,
+            0.32670807
+          ],
+          "reveal": [
+            7,
+            8
+          ],
+          "alt": "The **quay steps**. Grey water, moored boats. A woman in a **grey shawl** sits very straight, crying the way people cry when they have stopped noticing. A **grey cat** is in her lap, purring, and her hand goes over and over its back. She looks up as Firouze passes (wet coat, Barfi low beside her, Penny at one body-length). Something in the woman's face knows. Not the how. Only that this woman had a hand in it. Firouze does not answer. She is already walking. At the far side of the panel the woman bends her head over the cat and does not put it down."
+        },
+        {
+          "page": "29",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "alt": "Full page 29."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.3088942307692308,
+            0.0348328025477707,
+            0.5754206730769231,
+            0.08937101910828026
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.5498798076923077,
+            0.14271496815286625,
+            0.07061298076923077,
+            0.014331210191082803
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.3088942307692308,
+            0.0348328025477707,
+            0.5754206730769231,
+            0.12221337579617834
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.7193509615384616,
+            0.25636942675159236,
+            0.2169471153846154,
+            0.06548566878980892
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.18719951923076922,
+            0.3640525477707006,
+            0.12890625,
+            0.0455812101910828
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.7803485576923077,
+            0.5832006369426752,
+            0.14903846153846154,
+            0.06369426751592357
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.92578125,
+            0.38455414012738853,
+            0.01893028846153846,
+            0.011146496815286623
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.7256610576923077,
+            0.5832006369426752,
+            0.20372596153846154,
+            0.16660031847133758
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.7490985576923077,
+            0.8554936305732485,
+            0.03155048076923077,
+            0.00875796178343949
+          ],
+          "file": "l8.webp"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "30",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 30."
+        },
+        {
+          "page": "30",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.00993789,
+            1,
+            0.24182195
+          ],
+          "reveal": [],
+          "alt": "WS, the hill going up toward home. Wet steps, gulls, the sun trying. Small and ordinary, the street has animals on it again: a ginger on a wall, a tabby in a doorway. Firouze climbs. **Penny** is at exactly one body-length, not at her hand. **Barfi** comes at his own pace, low in the frame."
+        },
+        {
+          "page": "30",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.25175983,
+            0.498125,
+            0.25300207
+          ],
+          "reveal": [
+            0,
+            1,
+            2
+          ],
+          "alt": "MS. Penny, satisfied, talking. The second balloon **fails in the air**: the sentence breaks and what finishes it is a yowl the whole street can hear. There is no sentence underneath the yowl. Her mouth is open. The balloon's tail still does not touch Firouze."
+        },
+        {
+          "page": "30",
+          "kind": "panel",
+          "rect": [
+            0.498125,
+            0.25175983,
+            0.501875,
+            0.25300207
+          ],
+          "reveal": [
+            3,
+            4
+          ],
+          "alt": "MS. Penny has stopped. She shakes her head hard, as if a fence had stolen something from her. Her mouth opens. What comes out is cat. Firouze, beside her at the proper distance, is gentle and not soothing-past-the-truth."
+        },
+        {
+          "page": "30",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.5047619,
+            0.2940625,
+            0.24430642
+          ],
+          "reveal": [
+            5,
+            6
+          ],
+          "alt": "CU, Penny, at the top of the steps. She tries once more. It costs her. The balloon is **thinner than paper**: smaller than her other balloons, the letters light."
+        },
+        {
+          "page": "30",
+          "kind": "panel",
+          "rect": [
+            0.2940625,
+            0.5047619,
+            0.7059375,
+            0.24430642
+          ],
+          "reveal": [],
+          "alt": "CU, Firouze. **The shine, all the way.** Warmth from under her collarbone into her face, bare as a lamp. Her eyes are wet and open. She does not stop it. There is nobody in the panel to count it. The turquoise thread is at the edge of the frame if her hand is in it; do not force the hand in. Rain-light behind her, her face the warm thing."
+        },
+        {
+          "page": "30",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.74906832,
+            0.345625,
+            0.23975155
+          ],
+          "reveal": [
+            7
+          ],
+          "alt": "MS. Penny has seen the shine. She looks away at once, at a gutter, with great interest. After this there is only sound from her."
+        },
+        {
+          "page": "30",
+          "kind": "panel",
+          "rect": [
+            0.345625,
+            0.74906832,
+            0.3109375,
+            0.23975155
+          ],
+          "reveal": [
+            8
+          ],
+          "alt": "The turn above the house. The house is in view. The door is not yet the subject (the door is page 31)."
+        },
+        {
+          "page": "30",
+          "kind": "panel",
+          "rect": [
+            0.6565625,
+            0.74906832,
+            0.3434375,
+            0.23975155
+          ],
+          "reveal": [
+            9,
+            10,
+            11
+          ],
+          "alt": "Panel on page 30."
+        },
+        {
+          "page": "30",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "alt": "Full page 30."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.23046875,
+            0.26970541401273884,
+            0.6072716346153846,
+            0.21098726114649682
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.23046875,
+            0.26970541401273884,
+            0.6072716346153846,
+            0.21098726114649682
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.23046875,
+            0.26970541401273884,
+            0.6072716346153846,
+            0.21098726114649682
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.2620192307692308,
+            0.26970541401273884,
+            0.5757211538461539,
+            0.1552547770700637
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.2620192307692308,
+            0.26970541401273884,
+            0.5757211538461539,
+            0.1552547770700637
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.04927884615384615,
+            0.5177149681528662,
+            0.1180889423076923,
+            0.036027070063694266
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.109375,
+            0.6234076433121019,
+            0.09134615384615384,
+            0.06230095541401274
+          ],
+          "file": "l6.webp"
+        },
+        {
+          "index": 7,
+          "bbox": [
+            0.2800480769230769,
+            0.7693073248407644,
+            0.039663461538461536,
+            0.011146496815286623
+          ],
+          "file": "l7.webp"
+        },
+        {
+          "index": 8,
+          "bbox": [
+            0.5414663461538461,
+            0.8982882165605095,
+            0.09705528846153846,
+            0.04956210191082803
+          ],
+          "file": "l8.webp"
+        },
+        {
+          "index": 9,
+          "bbox": [
+            0.6920072115384616,
+            0.7689092356687898,
+            0.24188701923076922,
+            0.09773089171974522
+          ],
+          "file": "l9.webp"
+        },
+        {
+          "index": 10,
+          "bbox": [
+            0.6920072115384616,
+            0.7689092356687898,
+            0.14693509615384615,
+            0.06767515923566879
+          ],
+          "file": "l10.webp"
+        },
+        {
+          "index": 11,
+          "bbox": [
+            0.8900240384615384,
+            0.857484076433121,
+            0.043870192307692304,
+            0.009156050955414012
+          ],
+          "file": "l11.webp"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "31",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 31."
+        },
+        {
+          "page": "31",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.01490683,
+            0.611875,
+            0.24761905
+          ],
+          "reveal": [],
+          "alt": "MS, outside the street door. **The door is shut.** It is the only shut door in the book. Not by her: by the man who remembers doors. Her hand is flat on the wood and her forehead is on her hand. **Barfi leans his whole weight against her calf** and waits. Penny is on the step at one body-length, already offended by the delay."
+        },
+        {
+          "page": "31",
+          "kind": "panel",
+          "rect": [
+            0.611875,
+            0.01490683,
+            0.388125,
+            0.24761905
+          ],
+          "reveal": [],
+          "alt": "CU, the errand slate by the door. Her capitals are still crisp. Under them, his **small slanting hand**. Diegetic text, exact, in this order:"
+        },
+        {
+          "page": "31",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.26252588,
+            1,
+            0.23602484
+          ],
+          "reveal": [],
+          "alt": "The kitchen from **page 1's camera**: slightly low, cat height. The lamp is lit. **The two bowls sit on the flagstone in the precise place.** They are the same bowls: old chips, the right rims, one hairline crack. Empty, waiting. Firouze stands in the doorway, just in, looking at them. The shelf, left to right, matches page 1: turquoise cup, cracked saucer, plate with the coastline chip, and the gap, empty because the bowls are down. The chair holds white hair. The bedroom doorway is dark. Cupboards she opened this morning are still open. Do not show the street door open again. It is the one shut door in the book. Barfi is at her feet, not yet at the bowl. Penny is not in his place."
+        },
+        {
+          "page": "31",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.49855072,
+            0.496875,
+            0.23312629
+          ],
+          "reveal": [],
+          "alt": "MS, the table. **Two mugs.** The first is the cold one from pages 3 and 4, still wearing its skin. Beside it, a second, poured fresh, still faintly steaming. She looks toward the dark bedroom doorway. She does not go in. No face in the dark."
+        },
+        {
+          "page": "31",
+          "kind": "panel",
+          "rect": [
+            0.496875,
+            0.49855072,
+            0.503125,
+            0.23312629
+          ],
+          "reveal": [
+            0,
+            1
+          ],
+          "alt": "MS, low, the precise place. She tips food from a plain unlabelled crock into the bowls. The sound is the one the morning was missing. **Barfi sits beside his bowl and does not eat.** He looks at her until she comes and stands beside him. Only then does he begin, with the moral concentration of the deeply wronged. **Penny** has taken three bites and gone to the window, one body-length off, mouth open at the glass: a moth, or a reflection, or a principle."
+        },
+        {
+          "page": "31",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.73167702,
+            0.4971875,
+            0.24637681
+          ],
+          "reveal": [],
+          "alt": "CU, the shelf. Her fingers are clean; the grit is gone. She sets the **collar** beside the turquoise cup and leaves it: old leather, dye gone, bell with the tongue cut out, **one white hair caught in the buckle**. The turquoise thread shows on her left wrist. In the background the warm mug is in her other hand, or just set down where she can take it. She drinks it standing. Do not make a separate toast of it."
+        },
+        {
+          "page": "31",
+          "kind": "panel",
+          "rect": [
+            0.4971875,
+            0.73167702,
+            0.5028125,
+            0.24637681
+          ],
+          "reveal": [
+            2,
+            3,
+            4
+          ],
+          "alt": "MS, beside the bowl. She is standing with him. The soft voice."
+        },
+        {
+          "page": "31",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "alt": "Full page 31."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.6340144230769231,
+            0.527468152866242,
+            0.042067307692307696,
+            0.008957006369426751
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.8783052884615384,
+            0.6847133757961783,
+            0.052584134615384616,
+            0.010748407643312101
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.6724759615384616,
+            0.7553742038216561,
+            0.140625,
+            0.08320063694267515
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.6823918269230769,
+            0.8063296178343949,
+            0.1307091346153846,
+            0.032245222929936306
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.8058894230769231,
+            0.9271496815286624,
+            0.043870192307692304,
+            0.009554140127388535
+          ],
+          "file": "l4.webp"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "width": 3328,
+      "height": 5024,
+      "steps": [
+        {
+          "page": "32",
+          "kind": "overview",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [],
+          "alt": "Overview of page 32."
+        },
+        {
+          "page": "32",
+          "kind": "panel",
+          "rect": [
+            0,
+            0,
+            1,
+            0.4096337579617834
+          ],
+          "reveal": [
+            0,
+            1,
+            2
+          ],
+          "alt": "The bed. He is asleep, **face to the wall**. Dark messy hair, the back of his head, one arm thrown into the cold half of the blanket. **Do not draw his face.** The warm half is left for her, as always, and **Barfi has taken it**. She has moved him enough to fit. He has moved back at once, against her hip: a breathing snowdrift. **Her eyes are open.** Penny sits in the doorway, mask toward the dark kitchen, on watch against rivals, gaps, and any further civic ideas, **exactly one body-length from everyone**. The bedroom door is open. Firouze left it open. Penny is not on the bed. She never is."
+        },
+        {
+          "page": "32",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.4096337579617834,
+            1,
+            0.1592356687898089
+          ],
+          "reveal": [],
+          "alt": "Penny tucks her paws under her. Less awake. Still the distance. Still the open door. She is only a pale shape with a dark face."
+        },
+        {
+          "page": "32",
+          "kind": "panel",
+          "rect": [
+            0,
+            0.5688694267515924,
+            1,
+            0.43113057324840764
+          ],
+          "reveal": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "alt": "ECU. The fifth beat of the **hand rhyme**. Frame it the way page 2 framed her hand on the bare wood, and page 10 framed her hand an inch from his face: close, and nothing else in it that matters. Blanket. Snow-and-cream fur. Her left wrist. The turquoise thread. Her hand rests on him. He does not speak. He puts one slipper of a paw over her wrist, over the thread, and keeps it there. The thread catches the light."
+        },
+        {
+          "page": "32",
+          "kind": "page",
+          "rect": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "reveal": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "alt": "Full page 32."
+        }
+      ],
+      "letters": [
+        {
+          "index": 0,
+          "bbox": [
+            0.10757211538461539,
+            0.06011146496815287,
+            0.025240384615384616,
+            0.009952229299363057
+          ],
+          "file": "l0.webp"
+        },
+        {
+          "index": 1,
+          "bbox": [
+            0.40294471153846156,
+            0.050557324840764334,
+            0.04417067307692308,
+            0.00855891719745223
+          ],
+          "file": "l1.webp"
+        },
+        {
+          "index": 2,
+          "bbox": [
+            0.4756610576923077,
+            0.08439490445859872,
+            0.038461538461538464,
+            0.0073646496815286625
+          ],
+          "file": "l2.webp"
+        },
+        {
+          "index": 3,
+          "bbox": [
+            0.1219951923076923,
+            0.5873805732484076,
+            0.37109375,
+            0.028264331210191083
+          ],
+          "file": "l3.webp"
+        },
+        {
+          "index": 4,
+          "bbox": [
+            0.1219951923076923,
+            0.5873805732484076,
+            0.37109375,
+            0.028264331210191083
+          ],
+          "file": "l4.webp"
+        },
+        {
+          "index": 5,
+          "bbox": [
+            0.43118990384615385,
+            0.964968152866242,
+            0.13641826923076922,
+            0.02607484076433121
+          ],
+          "file": "l5.webp"
+        },
+        {
+          "index": 6,
+          "bbox": [
+            0.43118990384615385,
+            0.964968152866242,
+            0.13641826923076922,
+            0.02607484076433121
+          ],
+          "file": "l6.webp"
+        }
+      ]
+    }
+  ]
+}
